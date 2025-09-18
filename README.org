@@ -2,9 +2,8 @@
 
 Common Lisp wrapper for libjpeg-turbo
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/shamazmazum/jpeg-turbo.git   |
-| commit  | f79c646  |
-| systems | jpeg-turbo |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/shamazmazum/jpeg-turbo.git |
+| commit  | 75d1d3f                                           |
+| systems | jpeg-turbo                                        |
+|---------+---------------------------------------------------|
